@@ -1,1 +1,2 @@
 # Password-Manager-
+"I developed a password manager application using Python's tkinter module. This application securely stores and manages passwords for various accounts, providing users with convenient and centralized access to their credentials. Implemented with user-friendly interfaces, the password manager ensures robust encryption methods to safeguard sensitive information, enhancing user privacy and security."
